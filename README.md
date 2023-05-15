@@ -9,10 +9,10 @@ console.log(greeting);
 
 *Italized Text*
 
-> backquote
+>backquote
 
--one
--two
+- one
+- two
 -three
 -four
 
