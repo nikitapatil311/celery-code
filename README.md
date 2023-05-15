@@ -7,7 +7,7 @@ console.log(greeting);
 
 ** bold text **
 
-* Italized Text *
+*Italized Text*
 
 > backquote
 
