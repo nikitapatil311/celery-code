@@ -1,0 +1,58 @@
+nav {
+  font-size: 35px;
+  background-color: #ca8080;
+  margin: 5px 5px 5px 5px;
+  padding: 15px;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+  color: black;
+  align-content: space-around;
+  padding: 10px;
+}
+
+article h1,
+h2 {
+  font-size: 50px;
+  color: #7c3030;
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 10px 10px 10px;
+  background-color: lightgray;
+  border-radius: 20px;
+}
+
+article p {
+  font-size: 25px;
+  margin: 5px 5px 5px 5px;
+  height: 60px;
+  width: 80%;
+  padding: 10px;
+  color: darkred;
+}
+
+#menu h1 {
+  font-size: 50px;
+  color: rgb(33, 33, 158);
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
+  background: skyblue;
+  border-radius: 20px;
+}
+#menu ul {
+  font-size: 30px;
+  color: navy;
+  text-align: left;
+}
+
+#team h1 {
+  font-size: 50px;
+  color: teal;
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 10px 10px 10px;
+  background-color: darkgray;
+  border-radius: 20px;
+}
